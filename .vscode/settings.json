@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/lhome/bingzho/anaconda3/envs/pytorch/bin/python"
+}
